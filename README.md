@@ -10,7 +10,7 @@ Installed and configured VS Code, setting the Python interpreter to match the vi
 Step 2: Data Acquisition
 
 Downloaded the car advertisement dataset (vehicles_us.csv) and placed it in the root directory of the project.
-I also did some data clean up and pre-processing to separate and evaluate data types
+I also did some data clean up and pre-processing to separate and evaluate data types into the new cleaned_vehicles_us.csv dataset
 
 Step 3: Exploratory Data Analysis
 
