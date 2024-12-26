@@ -14,7 +14,7 @@ st.markdown("# 🚗 US Vehicle Listings Analysis")
 @st.cache_data  # Cache the data loading
 def load_data():
     try:
-        df = pd.read_csv('./cleaned_vehicles_us.csv')
+        df = pd.read_csv('./cleaned_vehicles_us.csv', index_col=0)
         return df
     except FileNotFoundError:
         st.error("Data file not found. Please ensure 'cleaned_vehicles_us.csv' is in the correct directory.")

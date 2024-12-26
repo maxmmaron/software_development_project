@@ -36,5 +36,5 @@ Verified the application's accessibility at: https://software-development-projec
 
 Conclusion
 
-This Streamlit application provides an interactive visualization of the Vehicle dataset. The app was developed as part of practicing software engineering tasks, namely creating Python virtual environments, developing a web application, and deploying it on a cloud service. The app is live and can be accessed
+This Streamlit application provides an interactive visualization of the Vehicle dataset. The app was developed as part of practicing software engineering tasks, namely creating Python virtual environments, developing a web application, and deploying it on a cloud service. The app is live and can be accessed.
 https://software-development-project-magu.onrender.com
