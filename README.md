@@ -36,5 +36,14 @@ Verified the application's accessibility at: https://software-development-projec
 
 Conclusion
 
-This Streamlit application provides an interactive visualization of the Vehicle dataset. The app was developed as part of practicing software engineering tasks, namely creating Python virtual environments, developing a web application, and deploying it on a cloud service. The app is live and can be accessed.
-https://software-development-project-magu.onrender.com
+This project successfully demonstrated the end-to-end development of a data-driven web application for analyzing car advertisements. 
+Through systematic implementation of key software development phases - from initial setup and data preprocessing to deployment - we created a functional, publicly accessible analytics platform.
+The project effectively combined several modern technologies and practices:
+
+Data analysis tools (pandas, plotly-express) for processing and visualizing vehicle data
+Streamlit framework for creating an interactive web interface
+Version control through GitHub for code management
+Cloud deployment via Render.com for public accessibility
+
+The resulting application (accessible at https://software-development-project-magu.onrender.com) provides users with interactive visualizations and insights into the car advertisement market. The use of Jupyter notebooks for initial exploration, followed by integration into a web application, showcases a practical approach to data-driven software development.
+This project lays a foundation for future enhancements, such as implementing additional analytics features, optimizing performance, or expanding the dataset. The modular structure and use of industry-standard tools ensure the application can be readily maintained and scaled as needed.
